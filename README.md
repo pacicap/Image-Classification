@@ -26,6 +26,6 @@ The executions were done on spyder from anaconda.
 4- First the code loads the data from the files, then convert to numpy array. The arrays are then split into test and train sets then classified and finally evaluated to test how well the classification was done by printing the accuracy, classification report and a graph of results. 
 
 
-# REQUIREMENTS
+## REQUIREMENTS
 
 - Python 3.7, skitlearn, numpy, CSV and mathploitlib.
